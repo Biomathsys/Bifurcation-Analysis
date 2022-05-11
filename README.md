@@ -26,13 +26,20 @@ Overview
 - Plots are conceptualized based on the purpose and the analysis. 
 
  ** SPF.mw**: 
-- This workbook specifies all settings for Yersinia enterocolitica co-infection in specific-pathogen-free (SPF) mice.
+- This workbook specifies all settings for Yersinia enterocolitica co-infection in specific-pathogen-free (SPF) mice (Figure 6 (a,d), Figure 7 (a,d), Figure 8 (a,d), Figure 9 (a,d) of publication).
 
  ** GF.mw**: 
-- This workbook specifies all settings for Yersinia enterocolitica co-infection in germ-free (GF) mice.
+- This workbook specifies all settings for Yersinia enterocolitica co-infection in germ-free (GF) mice (Figure 6 (b,e), Figure 7 (b,e), Figure 8 (b,e), Figure 9 (b,e) of publication).
 
  ** MyD.mw**: 
-- This workbook specifies all settings for Yersinia enterocolitica co-infection in MyD88-deficient (MyD88) mut mice.
+- This workbook specifies all settings for Yersinia enterocolitica co-infection in MyD88-deficient (MyD88) mut mice (Figure 6 (c,f), Figure 7 (c,f), Figure 8 (c,f), Figure 9 (c,f) of publication).
+
+ ** CenterManifold**:
+ - This workbook shows the approaches for calculation of center manifold. However, the center manifold calculation can be more precise if we compute the additional terms in the reduced system through Normal forms. Due to the complexity of Normal forms' calculation in a large system with many parameters, the Normal form calculation approach was not made entirely. This does not cause any problem in the system analysis since the aim for calculation of center manifold was only identifying sign and direction of simple zero in free-disease equilibrium, which was achieved. Therefore the sign of simple zero proved that free-disease equilibrium is stable as long as (R[0])^wt < 1 and (R[0])^mut < 1.
+
+** Figure4, Figure 5, Figure 10**:
+- These workbooksstand for the associated figures of publication.
+
 
 ☮ Licensing and distribution
 ----------------------------
