@@ -19,19 +19,19 @@ Please see the main.mws at the firts step.
 Overview
 --------
 
-- ** main.mws**: 
+ ** main.mws**: 
 - Red parts are highlighted in this workbook which indicates the main code. All names and variables used in the workbook are explained based on parameters and variables defined in the dynamic model.
 - Initial conditions are defined based on three different types of mice used in the experimental (SPF, GF, MyD).
 - Target parameters for the bifurcation analysis are chosen.
 - Plots are conceptualized based on the purpose and the analysis. 
 
-- ** SPF.mw**: 
+ ** SPF.mw**: 
 - This workbook specifies all settings for Yersinia enterocolitica co-infection in specific-pathogen-free (SPF) mice.
 
-- ** GF.mw**: 
+ ** GF.mw**: 
 - This workbook specifies all settings for Yersinia enterocolitica co-infection in germ-free (GF) mice.
 
-- ** MyD.mw**: 
+ ** MyD.mw**: 
 - This workbook specifies all settings for Yersinia enterocolitica co-infection in MyD88-deficient (MyD88) mut mice.
 
 ☮ Licensing and distribution
